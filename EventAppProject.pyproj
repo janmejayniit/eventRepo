@@ -49,6 +49,7 @@
     <Compile Include="EventAppProject\wsgi.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include=".gitignore" />
     <Content Include="eventMod\templates\eventMod\index.html" />
     <Content Include="requirements.txt" />
   </ItemGroup>
