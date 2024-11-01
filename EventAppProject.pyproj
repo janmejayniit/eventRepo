@@ -34,6 +34,9 @@
   <ItemGroup>
     <Compile Include="eventMod\admin.py" />
     <Compile Include="eventMod\apps.py" />
+    <Compile Include="eventMod\forms.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="eventMod\migrations\__init__.py" />
     <Compile Include="eventMod\models.py" />
     <Compile Include="eventMod\tests.py" />
